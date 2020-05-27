@@ -5,7 +5,7 @@ This is an implementation of **double linked list** data structure in java for p
 
 # Dependencies
 
-Here, java swing is used for frontend where photos are displayed. The path of the photos are stored in database *phpmyadmin* (MySQL database)  and to connect MYSQL with JAVA we use JDBC Driver. Hence following are the dependencies:
+Here, java swing is used for frontend where photos are displayed from the Gallery. The path of the photos are stored in database *phpmyadmin* (MySQL database)  and to connect MYSQL with JAVA we use JDBC Driver. Hence following are the dependencies:
 
 + Java SE 11
 
