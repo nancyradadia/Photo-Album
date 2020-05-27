@@ -31,3 +31,4 @@ Given below is the GUI screen of photo gallery in Java Swing.
 # Author
 + [Nancy Radadia](https://github.com/nancyradadia)
 + [Dhatri Kapuriya](https://github.com/dhatrikapuriya)
++ [Hardi Kadia](https://github.com/hardi15)
